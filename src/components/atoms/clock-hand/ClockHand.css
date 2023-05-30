@@ -1,0 +1,15 @@
+.clock-hand {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    rotate: -30deg;
+}
+
+.clock-hand i {
+    position: absolute;
+    background-color: var(--color);
+    width: 4px;
+    height: 80px;
+    border-radius: 8px;
+}

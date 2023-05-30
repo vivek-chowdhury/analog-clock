@@ -1,0 +1,14 @@
+.Medium-Label {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.Large-Label {
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+.Light-Label {
+    font-size: 1rem;
+    font-weight: lighter;
+}
