@@ -10,6 +10,6 @@
     position: absolute;
     background-color: var(--color);
     width: 4px;
-    height: 80px;
+    height: var(--height);
     border-radius: 8px;
 }
